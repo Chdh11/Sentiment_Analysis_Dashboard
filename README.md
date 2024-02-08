@@ -6,6 +6,10 @@ This project is a web-based dashboard created using Streamlit, a Python library 
 
 The project aims to analyze the sentiments expressed in tweets about US airlines. By performing sentiment analysis, we aim to understand the general sentiment trends, identify patterns, and gain insights into customer opinions and experiences with US airlines.
 
+## Deployment
+
+Deployed app: [https://chdh11-sentiment-analysis-dashboard-app-8m1uoy.streamlit.app/](https://chdh11-sentiment-analysis-dashboard-app-8m1uoy.streamlit.app/)
+
 ## Features
 
 1. **Show Random Tweet**: Display a random tweet categorized as positive, neutral, or negative sentiment.
