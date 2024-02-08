@@ -8,7 +8,7 @@ The project aims to analyze the sentiments expressed in tweets about US airlines
 
 ## Deployment
 
-Deployed app: [https://chdh11-sentiment-analysis-dashboard-app-8m1uoy.streamlit.app/](https://chdh11-sentiment-analysis-dashboard-app-8m1uoy.streamlit.app/)
+Deployed app: [https://senti-dash.streamlit.app/](https://senti-dash.streamlit.app/)
 
 ## Features
 
